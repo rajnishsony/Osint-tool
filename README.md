@@ -29,6 +29,6 @@ An open-source OSINT (Open Source Intelligence) tool that collects publicly avai
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/email-osint-tool.git
-cd email-osint-tool
+git clone https://github.com/rajnishsony/Osint-tool.git
+cd email-osint-too
 pip install -r requirements.txt
